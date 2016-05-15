@@ -1,9 +1,9 @@
 # Lispi
-Lispi - a LISP coded in C!
+Lispi - a LISP compiler coded in C!
 
 **Coded** in *pure* C language, to replicate almost all of the features of popular **LISP** languages, not just this, adding even more
 features which are rather `unique` to other LISPS out there.
-Some of the features inlcuded are:
+Some of the features included are:
 - Numerical & Mathematical Operations
 - Logical, Conditional & Boolean Operators
 - Advanced Operators
